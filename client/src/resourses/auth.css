@@ -1,0 +1,42 @@
+.auth {
+  background-image: url("https://img.freepik.com/free-photo/traffic-vehicle-urban-reflections-city_1112-973.jpg?ga=GA1.1.2002239308.1720438998&semt=ais_hybrid");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 60px;
+}
+
+.my-33 {
+  background-image: url("https://s3.rdbuz.com/images/webplatform/india/Homepage-header-800.webp");
+  height: 200px;
+  display: block;
+  border-radius: 20px;
+  background-position: center;
+  align-content: center;
+  padding: 60px;
+  margin-bottom: 10px;
+
+}
+
+.card1 {
+  background-color: rgb(238, 243, 226);
+  border-radius: 20px;
+  
+ 
+}
+/* label{
+  float: left;
+  color: rgb(255, 255, 255) !important;
+  font-weight: 200;
+} */
+a {
+  text-decoration: none !important;
+  color: rgb(3, 3, 3) !important;
+  font-weight: 200;
+}
+.text-lg1 {
+  font-size: 20px !important;
+  font-weight: 800;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
